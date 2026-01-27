@@ -1,0 +1,22 @@
+{
+  "ADMIN-MASTER-KEY": {
+    "customer-name": "Admin (VincenZo)",
+    "processor_id": "ANY",
+    "serial_number": "ANY",
+    "trial": false,
+    "lifetime": true,
+    "universal-license": true,
+    "valid": true,
+    "next-billing-date": ""
+  },
+  "TRIAL-2025-001": {
+    "customer-name": "Trial User",
+    "processor_id": "ANY",
+    "serial_number": "ANY",
+    "trial": true,
+    "lifetime": false,
+    "universal-license": true,
+    "valid": true,
+    "next-billing-date": "2025-03-01"
+  }
+}
